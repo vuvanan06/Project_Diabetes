@@ -1,4 +1,4 @@
-## Phân tích Dữ liệu Bệnh Tiểu Đường
+## Phân tích Dữ liệu dự đoán người bị Bệnh Tiểu Đường
 ### Mô tả dự án
 Phân tích tập dữ liệu bệnh tiểu đường để xác định mối quan hệ giữa các yếu tố lâm sàng và nguy cơ mắc bệnh, đồng thời xây dựng mô hình dự đoán.
 ### A. MÔ TẢ TẬP DỮ LIỆU 
