@@ -15,7 +15,8 @@ tính:
 8. Age: Tuổi 
 9. Outcome: Thuộc tính cho biết bệnh nhân có mắc bệnh tiểu đường hay không?  
 Không bị tiểu đường (0) – Bị tiểu đường (1)
-Công việc thực hiện:
+
+### B. Công việc thực hiện:
 Làm sạch dữ liệu, xử lý giá trị thiếu và chuẩn hóa các thuộc tính.
 
 Trực quan hóa dữ liệu để phân tích mối quan hệ giữa các biến.
@@ -24,6 +25,6 @@ Xây dựng mô hình phân loại bằng thuật toán K-Nearest Neighbors (KNN
 
 Sử dụng thư viện Python: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
 
-Kết quả đạt được:
+### C. Kết quả đạt được:
 Mô hình KNN đạt độ chính xác 81.23%, giúp dự đoán khả năng mắc bệnh tiểu đường hiệu quả
 
